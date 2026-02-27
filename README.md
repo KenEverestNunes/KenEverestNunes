@@ -1,77 +1,18 @@
-# Hi, I'm Ken Everest Nunes 👋
+# 💫 About Me:
+Hi, I'm Ken Everest Nunes 👋<br>🎓 MS in Computer Science @ Drexel University (GPA: 3.85)<br>💻 Former SDE Intern @ Amazon<br>⚡ Full-Stack Developer | AI Systems | Distributed Backend<br>📍 Philadelphia, PA<br><br>👨‍💻 About Me<br>I'm a full-stack engineer passionate about building scalable systems and AI-powered products that solve real-world problems.<br><br>Recently at Amazon, I led the development of an AI-based Ticket Resolution Helper Tool that reduced operational workload by 31% and cut infrastructure costs by ~50%.<br><br>I enjoy working at the intersection of:<br><br>Backend Architecture<br>AI / ML Integration<br>Distributed Systems<br>Scalable Web Applications<br>🛠 Tech Stack<br>Languages:<br>Python | JavaScript | TypeScript | Java<br><br>Frontend:<br>React.js | Redux | Tailwind CSS<br><br>Backend:<br>Node.js | Express.js | Django | REST APIs<br><br>Databases & Infra:<br>MySQL | MongoDB | Redis | Kafka | Docker<br><br>Cloud & AI:<br>AWS | AWS Bedrock | AWS CDK<br><br>🚀 Featured Projects<br>🔍 E-commerce Price Comparison + Sentiment Analyzer<br>Built a product aggregation platform using Django REST<br>Scraped and processed large-scale e-commerce data<br>Trained Random Forest model on 10,000+ reviews (92% accuracy)<br>Delivered sentiment insights to improve buying decisions<br>📈 Experience Highlights<br>🟠 Amazon | SDE Intern<br>Built AI ticket resolution system using Amazon Bedrock Agents<br>Designed single-agent architecture with 50% infra cost reduction<br>Implemented confidence scoring + intelligent routing<br>Automated internal workflows using AI + tool orchestration<br>📄 Publication<br>📚 Convergence of Machine Learning for Peer-to-Peer Money Lending<br>Published in Telematique (Vol 22, Issue 1)<br><br>📫 Let's Connect<br>📧 kennunes77@gmail.com<br>🔗 LinkedIn<br><br>⚡ Always building. Always learning. Always optimizing.
 
-🎓 MS in Computer Science @ Drexel University (GPA: 3.85)  
-💻 Former SDE Intern @ Amazon  
-⚡ Full-Stack Developer | AI Systems | Distributed Backend  
-📍 Philadelphia, PA  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ken-nunes-5694241a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kennunes77@gmail.com) 
 
-## 👨‍💻 About Me
-
-I'm a full-stack engineer passionate about building scalable systems and AI-powered products that solve real-world problems.
-
-Recently at Amazon, I led the development of an AI-based Ticket Resolution Helper Tool that reduced operational workload by 31% and cut infrastructure costs by ~50%.
-
-I enjoy working at the intersection of:
-- Backend Architecture
-- AI / ML Integration
-- Distributed Systems
-- Scalable Web Applications
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KenEverestNunes&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KenEverestNunes&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenEverestNunes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=KenEverestNunes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack
-
-**Languages:**  
-Python | JavaScript | TypeScript | Java  
-
-**Frontend:**  
-React.js | Redux | Tailwind CSS  
-
-**Backend:**  
-Node.js | Express.js | Django | REST APIs  
-
-**Databases & Infra:**  
-MySQL | MongoDB | Redis | Kafka | Docker  
-
-**Cloud & AI:**  
-AWS | AWS Bedrock | AWS CDK  
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 E-commerce Price Comparison + Sentiment Analyzer
-- Built a product aggregation platform using Django REST
-- Scraped and processed large-scale e-commerce data
-- Trained Random Forest model on 10,000+ reviews (92% accuracy)
-- Delivered sentiment insights to improve buying decisions
-
----
-
-## 📈 Experience Highlights
-
-### 🟠 Amazon | SDE Intern
-- Built AI ticket resolution system using Amazon Bedrock Agents
-- Designed single-agent architecture with 50% infra cost reduction
-- Implemented confidence scoring + intelligent routing
-- Automated internal workflows using AI + tool orchestration
-
----
-
-## 📄 Publication
-
-📚 *Convergence of Machine Learning for Peer-to-Peer Money Lending*  
-Published in Telematique (Vol 22, Issue 1)
-
----
-
-## 📫 Let's Connect
-
-📧 kennunes77@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ken-nunes-5694241a3)
-
----
-
-⚡ Always building. Always learning. Always optimizing.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
