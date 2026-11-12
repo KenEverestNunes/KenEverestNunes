@@ -9,11 +9,15 @@ MS in Computer Science @ Drexel University (GPA: 3.91) | Former SDE Intern @ Ama
 
 ---
 
-### Experience Highlight
+### Experience
 
-**SDE Intern - Amazon**
-- Led development of an AI-based Ticket Resolution Helper Tool using **Amazon Bedrock Agents**, reducing operational workload by **31%**.
-- Designed a single-agent architecture with confidence scoring, intelligent routing, and tool orchestration, cutting infrastructure costs by **~50%**.
+**SDE 1 Intern - Amazon.com Services LLC** *(Jun 2025 - Oct 2025)*
+- Designed and deployed a single-agent AI architecture (**Amazon Bedrock**) for ticket resolution, achieving parity with multi-agent systems while cutting infrastructure costs by **~50%** and reducing team workload by **31%**.
+- Provisioned cloud infrastructure with **AWS CDK & AWS Lambda**, adding **Amazon CloudWatch** observability/tracing and a confidence-scoring layer to reduce false-positive resolutions.
+
+**Software Developer - Rajkamal Barscan Systems Pvt Ltd** *(Jun 2023 - Jul 2024)*
+- Built responsive **React** interfaces and REST APIs for customer-facing and internal applications serving **1K+ monthly active users**.
+- Optimized **MySQL & Redis** caching to reduce API latency by **~40%**, and containerized backend services with **Docker on Linux** to cut deployment downtime from hours to **under 15 minutes**.
 
 ---
 
@@ -31,11 +35,12 @@ MS in Computer Science @ Drexel University (GPA: 3.91) | Former SDE Intern @ Ama
 
 | Domain | Technologies |
 |---|---|
-| **Languages** | Python, TypeScript, JavaScript, Java |
-| **Backend & APIs** | Node.js, Express.js, FastAPI, Django REST, REST, GraphQL |
-| **Frontend** | React, Next.js, Redux, Tailwind CSS |
-| **Data & Messaging** | PostgreSQL, MySQL, MongoDB, Redis, Apache Kafka |
-| **Cloud & AI/ML** | AWS, AWS Bedrock, AWS CDK, Docker, scikit-learn, XGBoost, PyTorch |
+| **Languages** | Python, TypeScript, JavaScript (ES6+), Java, SQL |
+| **Backend & APIs** | FastAPI, Node.js, Express.js, Django REST, REST APIs, GraphQL, WebSockets |
+| **Frontend** | React, Next.js, Zustand, Redux, Tailwind CSS |
+| **Data & Messaging** | PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Apache Kafka |
+| **AI & ML** | LangGraph, RAG, Amazon Bedrock, scikit-learn, XGBoost, PyTorch |
+| **Cloud & DevOps** | AWS (Lambda, CDK, CloudWatch), Docker, Linux, Git, Pytest, Jest |
 
 ---
 
