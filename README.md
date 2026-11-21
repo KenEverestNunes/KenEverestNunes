@@ -25,9 +25,9 @@ MS in Computer Science @ Drexel University (GPA: 3.91) | Former SDE Intern @ Ama
 
 | Project | Summary | Stack |
 |---|---|---|
+| **[ThreadLore](https://github.com/KenEverestNunes/ThreadLore)** | AI-assisted textile reconstruction pipeline converting macro fabric photos into validated, loom-ready weaving drafts (WIF 1.1) using OpenCV (2D FFT, K-Means) and Gemini Flash; deployed live on Google Cloud Run. | Python, OpenCV, Gemini Flash, FastAPI, React, Google Cloud Run |
 | **[MCP-Sentry](https://github.com/KenEverestNunes/mcp-sentry)**  | A hosted security and reliability stress-tester for MCP servers that fuzzes, sandboxes, and scores MCP tools live. | Python, FastAPI, MCP, Docker, Pydantic |
 | **[AI-PR-Friction-Predictor](https://github.com/KenEverestNunes/AI-PR-Friction-Predictor)** | Early-warning classifier flagging high-friction AI-generated PRs (>=2 review cycles) across **33,600 PRs** and 5 AI coding agents; handles an 86%/14% class imbalance to reach **80.7% recall** and **61.0% Class-1 F1**. | Python, XGBoost, scikit-learn, pandas |
-| **[Engineering Portfolio](https://keneverestnunes.github.io/Portfolio/)** | Interactive developer portfolio showcasing full-stack, backend, and applied AI work. | Web / GitHub Pages |
 
 ---
 
