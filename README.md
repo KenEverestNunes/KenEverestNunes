@@ -5,6 +5,7 @@ MS in Computer Science @ Drexel University (GPA: 3.91) | Former SDE Intern @ Ama
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=githubpages&logoColor=white)](https://keneverestnunes.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-nunes-5694241a3/)
+[![Medium](https://img.shields.io/badge/Medium-1A8917?style=flat&logo=medium&logoColor=white)](https://medium.com/@kennunes77)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kennunes77@gmail.com)
 
 ---
